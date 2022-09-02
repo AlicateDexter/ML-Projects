@@ -1,2 +1,3 @@
 # ML-Projects
-Machine Learning Projects developed by me
+
+This Repository is designate to store Machine Learning Projects that I have developed.
