@@ -1,3 +1,3 @@
 # ML-Projects
 
-This Repository is designate to store Machine Learning Projects that I have developed.
+This Repository is designate to store Machine Learning Notebooks that I have developed. End-to-end projects will have their own repository.
